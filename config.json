@@ -1,6 +1,6 @@
 {
     "name": "Test App 2",
-    "className": "TestApp2-b2",
+    "className": "TestApp2",
     "javascript": [
         "js/app.js",
         "js/validation.js"
